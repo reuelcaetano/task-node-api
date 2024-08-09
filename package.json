@@ -1,0 +1,19 @@
+{
+  "name": "task-node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "",
+    "dev": "node --watch src/server.js",
+    "test": "",
+    "build": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-parse": "^5.5.6"
+  }
+}
